@@ -1,0 +1,4 @@
+#Mon Jul 27 17:08:47 IST 2020
+base.0=C\:\\Users\\sojh\\Desktop\\Hackathon\\Notifications\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
